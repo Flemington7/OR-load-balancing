@@ -5,7 +5,11 @@ Specifically, this script is part of a project that aims to find the optimal sch
 running in the cloud at reasonable cost by _**reducing the expense of running cloud servers**_ while _**minimizing risk and human time 
 due to migrating**_ and _**doing balance sleeping models across servers**_.
 
-![load_balancing.png](img.png)
+<center>
+<img src="load_balancing.png"
+     width="300" height="400" />
+</center>
+
 ### The objective function:
 - Minimize the total cost of running servers
 - Minimize the total cost of migrating users from one server to another to reduce the risk and human time
