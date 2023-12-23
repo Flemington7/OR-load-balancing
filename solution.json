@@ -1,0 +1,284 @@
+{
+   "active servers": [
+      "server001",
+      "server003",
+      "server004"
+   ],
+   "sleeping processes by server": {
+      "server001": 38.0,
+      "server003": 38.0,
+      "server004": 37.0
+   },
+   "user assignment": [
+      {
+         "user": "user001",
+         "server": "server001",
+         "migration": "no"
+      },
+      {
+         "user": "user002",
+         "server": "server001",
+         "migration": "no"
+      },
+      {
+         "user": "user003",
+         "server": "server001",
+         "migration": "no"
+      },
+      {
+         "user": "user004",
+         "server": "server001",
+         "migration": "no"
+      },
+      {
+         "user": "user005",
+         "server": "server001",
+         "migration": "no"
+      },
+      {
+         "user": "user006",
+         "server": "server001",
+         "migration": "no"
+      },
+      {
+         "user": "user007",
+         "server": "server001",
+         "migration": "no"
+      },
+      {
+         "user": "user008",
+         "server": "server001",
+         "migration": "no"
+      },
+      {
+         "user": "user009",
+         "server": "server001",
+         "migration": "no"
+      },
+      {
+         "user": "user010",
+         "server": "server001",
+         "migration": "no"
+      },
+      {
+         "user": "user011",
+         "server": "server001",
+         "migration": "no"
+      },
+      {
+         "user": "user012",
+         "server": "server001",
+         "migration": "no"
+      },
+      {
+         "user": "user013",
+         "server": "server003",
+         "migration": "yes"
+      },
+      {
+         "user": "user014",
+         "server": "server003",
+         "migration": "yes"
+      },
+      {
+         "user": "user015",
+         "server": "server004",
+         "migration": "yes"
+      },
+      {
+         "user": "user016",
+         "server": "server004",
+         "migration": "yes"
+      },
+      {
+         "user": "user017",
+         "server": "server003",
+         "migration": "yes"
+      },
+      {
+         "user": "user018",
+         "server": "server001",
+         "migration": "yes"
+      },
+      {
+         "user": "user019",
+         "server": "server001",
+         "migration": "yes"
+      },
+      {
+         "user": "user020",
+         "server": "server001",
+         "migration": "yes"
+      },
+      {
+         "user": "user021",
+         "server": "server003",
+         "migration": "yes"
+      },
+      {
+         "user": "user022",
+         "server": "server001",
+         "migration": "yes"
+      },
+      {
+         "user": "user023",
+         "server": "server001",
+         "migration": "yes"
+      },
+      {
+         "user": "user024",
+         "server": "server003",
+         "migration": "yes"
+      },
+      {
+         "user": "user025",
+         "server": "server003",
+         "migration": "no"
+      },
+      {
+         "user": "user026",
+         "server": "server003",
+         "migration": "no"
+      },
+      {
+         "user": "user027",
+         "server": "server003",
+         "migration": "no"
+      },
+      {
+         "user": "user028",
+         "server": "server003",
+         "migration": "no"
+      },
+      {
+         "user": "user029",
+         "server": "server003",
+         "migration": "no"
+      },
+      {
+         "user": "user030",
+         "server": "server003",
+         "migration": "no"
+      },
+      {
+         "user": "user031",
+         "server": "server003",
+         "migration": "no"
+      },
+      {
+         "user": "user032",
+         "server": "server003",
+         "migration": "no"
+      },
+      {
+         "user": "user033",
+         "server": "server003",
+         "migration": "no"
+      },
+      {
+         "user": "user034",
+         "server": "server003",
+         "migration": "no"
+      },
+      {
+         "user": "user035",
+         "server": "server003",
+         "migration": "no"
+      },
+      {
+         "user": "user036",
+         "server": "server003",
+         "migration": "no"
+      },
+      {
+         "user": "user037",
+         "server": "server003",
+         "migration": "no"
+      },
+      {
+         "user": "user038",
+         "server": "server003",
+         "migration": "no"
+      },
+      {
+         "user": "user039",
+         "server": "server003",
+         "migration": "no"
+      },
+      {
+         "user": "user040",
+         "server": "server003",
+         "migration": "no"
+      },
+      {
+         "user": "user041",
+         "server": "server004",
+         "migration": "no"
+      },
+      {
+         "user": "user042",
+         "server": "server004",
+         "migration": "no"
+      },
+      {
+         "user": "user043",
+         "server": "server004",
+         "migration": "no"
+      },
+      {
+         "user": "user044",
+         "server": "server004",
+         "migration": "no"
+      },
+      {
+         "user": "user045",
+         "server": "server004",
+         "migration": "no"
+      },
+      {
+         "user": "user046",
+         "server": "server004",
+         "migration": "no"
+      },
+      {
+         "user": "user047",
+         "server": "server004",
+         "migration": "no"
+      },
+      {
+         "user": "user048",
+         "server": "server004",
+         "migration": "no"
+      },
+      {
+         "user": "user049",
+         "server": "server004",
+         "migration": "no"
+      },
+      {
+         "user": "user050",
+         "server": "server004",
+         "migration": "no"
+      },
+      {
+         "user": "user051",
+         "server": "server004",
+         "migration": "no"
+      },
+      {
+         "user": "user052",
+         "server": "server004",
+         "migration": "no"
+      },
+      {
+         "user": "user053",
+         "server": "server004",
+         "migration": "no"
+      },
+      {
+         "user": "user054",
+         "server": "server004",
+         "migration": "no"
+      }
+   ]
+}
